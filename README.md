@@ -1,10 +1,10 @@
-# BusinessConsent CMP — Google Tag Manager template
+# BusinessConsent CMP by BusinessConsent — Google Tag Manager template
 
 Install the [BusinessConsent](https://businessconsent.com) consent banner through
 Google Tag Manager, with Google Consent Mode v2 built in.
 
 This is the official template from BusinessConsent, published and maintained by
-the BusinessConsent team (Lazanjur is our GitHub account). Our documentation
+the BusinessConsent team from our verified GitHub organisation. Our documentation
 links here: https://businessconsent.com/docs#google-tag-manager
 
 ## What the tag does
@@ -43,4 +43,4 @@ BusinessConsent script tag at the top of `<head>` instead.
 ## Support
 
 Report problems in this repository's
-[Issues](https://github.com/Lazanjur/businessconsent-gtm-template/issues).
+[Issues](https://github.com/businessconsent/businessconsent-gtm-template/issues).

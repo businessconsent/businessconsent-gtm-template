@@ -1,6 +1,8 @@
 homepage: "https://businessconsent.com"
 documentation: "https://businessconsent.com/docs#google-tag-manager"
 versions:
+  - sha: 06c04f6baa2590390d8378e7d6423c0f600cda31
+    changeNotes: Renamed to "BusinessConsent CMP by BusinessConsent" to follow the gallery naming guideline. No change to how the tag works.
   - sha: fba08b3ea2e55879e29e60f19c9e117c3ab0e572
     changeNotes: Returning visitors' choices are applied by the banner after it checks the property's current settings; the localStorage permission is no longer needed.
   - sha: d99afaa4ab2e8e91becc1390cea14f7d2f0dff70
